@@ -1,3 +1,3 @@
-# Hi! My name is Mandi Haase. Nice to meet you~ ✨
+# Hello, World! I'm Mandi Haase ✨
 
-I am a full-stack developer that loves learning, teaching, and programming. I currently live close to Washington, DC with my amazing family. In my free time, you can find me reading a good book with my kids. 
+I'm a software engineer with a relentless love for learning, teaching, and creating innovative solutions. Currently residing near the vibrant city of Washington, DC, I balance my tech adventures with the joys of family life. When I'm not coding, you'll find me diving into captivating books with my kids, exploring new technologies, or sharing knowledge with fellow developers.
